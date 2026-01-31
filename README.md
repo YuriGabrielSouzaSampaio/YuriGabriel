@@ -12,7 +12,7 @@
 ![Luau Roblox](https://img.shields.io/badge/-Luau+Roblox-0D1117?style=for-the-badge&logo=luau&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Phyton](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-cplusplus-0D1117?style=for-the-badge&logo=cplusplus&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=purple&labelColor=0D1117)&nbsp; 
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
